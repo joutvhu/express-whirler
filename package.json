@@ -1,0 +1,40 @@
+{
+    "name": "@whirler/express",
+    "version": "0.0.1",
+    "description": "Create a Whirler server with Express.",
+    "author": "Jout V Hu (Giao Ho)",
+    "license": "MIT",
+    "main": "lib/index.js",
+    "directories": {
+        "lib": "./lib"
+    },
+    "files": [
+        "lib"
+    ],
+    "homepage": "https://github.com/joutvhu/express-whirler",
+    "bugs": {
+        "url": "https://github.com/joutvhu/express-whirler/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/joutvhu/express-whirler.git"
+    },
+    "keywords": [
+        "express-whirler",
+        "express-whirler js",
+        "whirler",
+        "express",
+        "single endpoint",
+        "api",
+        "method"
+    ],
+    "engines": {
+        "node": ">= 8.x"
+    },
+    "dependencies": {
+        "express": "^4.16.4"
+    },
+    "peerDependencies": {
+        "@whirler/server": "^0.0.1"
+    }
+}
