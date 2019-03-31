@@ -1,2 +1,2 @@
 # express-whirler
-Create a Sigh server with Express.
+Create a Whirler server with Express.
