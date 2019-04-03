@@ -1,6 +1,6 @@
 {
     "name": "@whirler/express",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Create a Whirler server with Express.",
     "author": "Jout V Hu (Giao Ho)",
     "license": "MIT",
@@ -35,6 +35,6 @@
         "express": "^4.16.4"
     },
     "peerDependencies": {
-        "@whirler/server": "^0.0.2"
+        "@whirler/server": "^0.0.3"
     }
 }
