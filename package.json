@@ -11,6 +11,9 @@
     "files": [
         "lib"
     ],
+    "publishConfig": {
+        "access": "public"
+    },
     "homepage": "https://github.com/joutvhu/express-whirler",
     "bugs": {
         "url": "https://github.com/joutvhu/express-whirler/issues"
@@ -32,7 +35,8 @@
         "node": ">= 8.x"
     },
     "dependencies": {
-        "express": "^4.16.4"
+        "express": "^4.16.4",
+        "extension-props": "^0.9.2"
     },
     "peerDependencies": {
         "@whirler/server": "^0.0.4"
