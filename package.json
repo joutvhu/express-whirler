@@ -36,7 +36,7 @@
     },
     "dependencies": {
         "express": "^4.16.4",
-        "extension-props": "^0.9.4"
+        "extension-props": "^0.9.8"
     },
     "peerDependencies": {
         "@whirler/server": "^0.0.4"
